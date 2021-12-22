@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f22c0caf-ce94-481b-b7d3-9b315bbc5e14": {
+      "ProjectGuid": "f22c0caf-ce94-481b-b7d3-9b315bbc5e14",
+      "DisplayName": "TransaçãoBancáriaSwitch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

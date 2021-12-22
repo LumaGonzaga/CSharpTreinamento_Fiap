@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.Form1.resources
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.csproj.GenerateResource.cache
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.AssemblyInfo.cs
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\bin\Debug\net6.0-windows\LaçosRepetição.exe
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\bin\Debug\net6.0-windows\LaçosRepetição.deps.json
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\bin\Debug\net6.0-windows\LaçosRepetição.runtimeconfig.json
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\bin\Debug\net6.0-windows\LaçosRepetição.dll
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\bin\Debug\net6.0-windows\ref\LaçosRepetição.dll
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\bin\Debug\net6.0-windows\LaçosRepetição.pdb
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.dll
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\ref\LaçosRepetição.dll
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.pdb
+C:\AvanadeDezembro\LaçosRepetição\LaçosRepetição\obj\Debug\net6.0-windows\LaçosRepetição.genruntimeconfig.cache

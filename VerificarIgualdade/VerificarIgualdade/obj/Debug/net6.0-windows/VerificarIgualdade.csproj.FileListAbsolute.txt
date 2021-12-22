@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\bin\Debug\net6.0-windows\VerificarIgualdade.exe
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\bin\Debug\net6.0-windows\VerificarIgualdade.deps.json
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\bin\Debug\net6.0-windows\VerificarIgualdade.runtimeconfig.json
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\bin\Debug\net6.0-windows\VerificarIgualdade.dll
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\bin\Debug\net6.0-windows\ref\VerificarIgualdade.dll
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\bin\Debug\net6.0-windows\VerificarIgualdade.pdb
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.Form1.resources
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.csproj.GenerateResource.cache
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.AssemblyInfo.cs
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.dll
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\ref\VerificarIgualdade.dll
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.pdb
+C:\AvanadeDezembro\VerificarIgualdade\VerificarIgualdade\obj\Debug\net6.0-windows\VerificarIgualdade.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\bin\Debug\net6.0-windows\CalculadoraPoo.exe
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\bin\Debug\net6.0-windows\CalculadoraPoo.deps.json
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\bin\Debug\net6.0-windows\CalculadoraPoo.runtimeconfig.json
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\bin\Debug\net6.0-windows\CalculadoraPoo.dll
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\bin\Debug\net6.0-windows\ref\CalculadoraPoo.dll
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\bin\Debug\net6.0-windows\CalculadoraPoo.pdb
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.Form1.resources
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.csproj.GenerateResource.cache
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.AssemblyInfo.cs
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.dll
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\ref\CalculadoraPoo.dll
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.pdb
+C:\AvanadeDezembro\CalculadoraPoo\CalculadoraPoo\obj\Debug\net6.0-windows\CalculadoraPoo.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\bin\Debug\net6.0-windows\opLógicoOu.exe
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\bin\Debug\net6.0-windows\opLógicoOu.deps.json
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\bin\Debug\net6.0-windows\opLógicoOu.runtimeconfig.json
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\bin\Debug\net6.0-windows\opLógicoOu.dll
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\bin\Debug\net6.0-windows\ref\opLógicoOu.dll
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\bin\Debug\net6.0-windows\opLógicoOu.pdb
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.Form1.resources
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.csproj.GenerateResource.cache
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.AssemblyInfo.cs
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.dll
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\ref\opLógicoOu.dll
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.pdb
+C:\AvanadeDezembro\opLógicoOu\opLógicoOu\obj\Debug\net6.0-windows\opLógicoOu.genruntimeconfig.cache

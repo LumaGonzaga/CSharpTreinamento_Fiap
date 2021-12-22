@@ -1,0 +1,11 @@
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.csproj.SuggestedBindingRedirects.cache
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.Form1.resources
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.Properties.Resources.resources
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.csproj.GenerateResource.cache
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\bin\Debug\SomaElementosMatriz.exe.config
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\bin\Debug\SomaElementosMatriz.exe
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\bin\Debug\SomaElementosMatriz.pdb
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.exe
+C:\AvanadeDezembro\SomaElementosMatriz\SomaElementosMatriz\obj\Debug\SomaElementosMatriz.pdb

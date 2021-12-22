@@ -1,0 +1,11 @@
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\bin\Debug\OperaçõesComArrays.exe.config
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\bin\Debug\OperaçõesComArrays.exe
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\bin\Debug\OperaçõesComArrays.pdb
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.csproj.SuggestedBindingRedirects.cache
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.Form1.resources
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.Properties.Resources.resources
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.csproj.GenerateResource.cache
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.exe
+C:\AvanadeDezembro\OperaçõesComArrays\OperaçõesComArrays\obj\Debug\OperaçõesComArrays.pdb

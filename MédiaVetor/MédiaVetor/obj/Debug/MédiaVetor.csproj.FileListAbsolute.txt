@@ -1,0 +1,11 @@
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\bin\Debug\MédiaVetor.exe.config
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\bin\Debug\MédiaVetor.exe
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\bin\Debug\MédiaVetor.pdb
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.csproj.SuggestedBindingRedirects.cache
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.Form1.resources
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.Properties.Resources.resources
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.csproj.GenerateResource.cache
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.exe
+C:\AvanadeDezembro\MédiaVetor\MédiaVetor\obj\Debug\MédiaVetor.pdb

@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\bin\Debug\net6.0-windows\ValorCrédito.exe
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\bin\Debug\net6.0-windows\ValorCrédito.deps.json
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\bin\Debug\net6.0-windows\ValorCrédito.runtimeconfig.json
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\bin\Debug\net6.0-windows\ValorCrédito.dll
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\bin\Debug\net6.0-windows\ref\ValorCrédito.dll
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\bin\Debug\net6.0-windows\ValorCrédito.pdb
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.Form1.resources
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.AssemblyInfo.cs
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.dll
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ref\ValorCrédito.dll
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.pdb
+C:\AvanadeDezembro\ValorCrédito\ValorCrédito\obj\Debug\net6.0-windows\ValorCrédito.genruntimeconfig.cache

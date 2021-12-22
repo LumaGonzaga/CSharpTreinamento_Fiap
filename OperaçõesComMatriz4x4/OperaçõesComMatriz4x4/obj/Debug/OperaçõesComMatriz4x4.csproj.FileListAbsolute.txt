@@ -1,0 +1,11 @@
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\bin\Debug\OperaçõesComMatriz4x4.exe.config
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\bin\Debug\OperaçõesComMatriz4x4.exe
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\bin\Debug\OperaçõesComMatriz4x4.pdb
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.csproj.SuggestedBindingRedirects.cache
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.Form1.resources
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.Properties.Resources.resources
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.csproj.GenerateResource.cache
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.exe
+C:\AvanadeDezembro\OperaçõesComMatriz4x4\OperaçõesComMatriz4x4\obj\Debug\OperaçõesComMatriz4x4.pdb

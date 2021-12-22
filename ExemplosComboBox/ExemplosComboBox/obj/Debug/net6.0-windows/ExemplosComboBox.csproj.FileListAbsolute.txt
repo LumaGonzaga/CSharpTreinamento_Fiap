@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\bin\Debug\net6.0-windows\ExemplosComboBox.exe
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\bin\Debug\net6.0-windows\ExemplosComboBox.deps.json
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\bin\Debug\net6.0-windows\ExemplosComboBox.runtimeconfig.json
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\bin\Debug\net6.0-windows\ExemplosComboBox.dll
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\bin\Debug\net6.0-windows\ref\ExemplosComboBox.dll
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\bin\Debug\net6.0-windows\ExemplosComboBox.pdb
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.Form1.resources
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.AssemblyInfo.cs
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.dll
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ref\ExemplosComboBox.dll
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.pdb
+C:\AvanadeDezembro\ExemplosComboBox\ExemplosComboBox\obj\Debug\net6.0-windows\ExemplosComboBox.genruntimeconfig.cache

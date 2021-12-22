@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.Form1.resources
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.csproj.GenerateResource.cache
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.AssemblyInfo.cs
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\bin\Debug\net6.0-windows\TransaçãoBancáriaSwitch.exe
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\bin\Debug\net6.0-windows\TransaçãoBancáriaSwitch.deps.json
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\bin\Debug\net6.0-windows\TransaçãoBancáriaSwitch.runtimeconfig.json
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\bin\Debug\net6.0-windows\TransaçãoBancáriaSwitch.dll
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\bin\Debug\net6.0-windows\ref\TransaçãoBancáriaSwitch.dll
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\bin\Debug\net6.0-windows\TransaçãoBancáriaSwitch.pdb
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.dll
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\ref\TransaçãoBancáriaSwitch.dll
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.pdb
+C:\AvanadeDezembro\TransaçãoBancáriaSwitch\TransaçãoBancáriaSwitch\obj\Debug\net6.0-windows\TransaçãoBancáriaSwitch.genruntimeconfig.cache

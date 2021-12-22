@@ -1,0 +1,11 @@
+C:\AvanadeDezembro\VetorInverso\VetorInverso\bin\Debug\VetorInverso.exe.config
+C:\AvanadeDezembro\VetorInverso\VetorInverso\bin\Debug\VetorInverso.exe
+C:\AvanadeDezembro\VetorInverso\VetorInverso\bin\Debug\VetorInverso.pdb
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.csproj.SuggestedBindingRedirects.cache
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.Form1.resources
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.Properties.Resources.resources
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.csproj.GenerateResource.cache
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.exe
+C:\AvanadeDezembro\VetorInverso\VetorInverso\obj\Debug\VetorInverso.pdb

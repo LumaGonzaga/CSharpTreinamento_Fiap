@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\bin\Debug\net6.0-windows\SomatorioFor.exe
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\bin\Debug\net6.0-windows\SomatorioFor.deps.json
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\bin\Debug\net6.0-windows\SomatorioFor.runtimeconfig.json
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\bin\Debug\net6.0-windows\SomatorioFor.dll
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\bin\Debug\net6.0-windows\ref\SomatorioFor.dll
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\bin\Debug\net6.0-windows\SomatorioFor.pdb
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.Form1.resources
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.csproj.GenerateResource.cache
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.AssemblyInfo.cs
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.dll
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\ref\SomatorioFor.dll
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.pdb
+C:\AvanadeDezembro\SomatorioFor\SomatorioFor\obj\Debug\net6.0-windows\SomatorioFor.genruntimeconfig.cache

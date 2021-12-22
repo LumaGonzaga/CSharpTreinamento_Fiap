@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\bin\Debug\net6.0-windows\MédiaNotasEAulas.exe
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\bin\Debug\net6.0-windows\MédiaNotasEAulas.deps.json
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\bin\Debug\net6.0-windows\MédiaNotasEAulas.runtimeconfig.json
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\bin\Debug\net6.0-windows\MédiaNotasEAulas.dll
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\bin\Debug\net6.0-windows\ref\MédiaNotasEAulas.dll
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\bin\Debug\net6.0-windows\MédiaNotasEAulas.pdb
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.Form1.resources
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.csproj.GenerateResource.cache
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.AssemblyInfo.cs
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.dll
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\ref\MédiaNotasEAulas.dll
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.pdb
+C:\AvanadeDezembro\MédiaNotasEAulas\MédiaNotasEAulas\obj\Debug\net6.0-windows\MédiaNotasEAulas.genruntimeconfig.cache

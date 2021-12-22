@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\bin\Debug\net6.0-windows\MesesPorNumeros.exe
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\bin\Debug\net6.0-windows\MesesPorNumeros.deps.json
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\bin\Debug\net6.0-windows\MesesPorNumeros.runtimeconfig.json
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\bin\Debug\net6.0-windows\MesesPorNumeros.dll
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\bin\Debug\net6.0-windows\ref\MesesPorNumeros.dll
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\bin\Debug\net6.0-windows\MesesPorNumeros.pdb
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.Form1.resources
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.csproj.GenerateResource.cache
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.AssemblyInfo.cs
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.dll
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\ref\MesesPorNumeros.dll
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.pdb
+C:\AvanadeDezembro\MesesPorNumeros\MesesPorNumeros\obj\Debug\net6.0-windows\MesesPorNumeros.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\Conversor\Conversor\bin\Debug\net6.0-windows\Conversor.exe
+C:\AvanadeDezembro\Conversor\Conversor\bin\Debug\net6.0-windows\Conversor.deps.json
+C:\AvanadeDezembro\Conversor\Conversor\bin\Debug\net6.0-windows\Conversor.runtimeconfig.json
+C:\AvanadeDezembro\Conversor\Conversor\bin\Debug\net6.0-windows\Conversor.dll
+C:\AvanadeDezembro\Conversor\Conversor\bin\Debug\net6.0-windows\ref\Conversor.dll
+C:\AvanadeDezembro\Conversor\Conversor\bin\Debug\net6.0-windows\Conversor.pdb
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.Form1.resources
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.csproj.GenerateResource.cache
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.AssemblyInfo.cs
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.dll
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\ref\Conversor.dll
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.pdb
+C:\AvanadeDezembro\Conversor\Conversor\obj\Debug\net6.0-windows\Conversor.genruntimeconfig.cache

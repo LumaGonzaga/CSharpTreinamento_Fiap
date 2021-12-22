@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d526db75-80c7-40b6-9ad6-cc839b45ff1d": {
+      "ProjectGuid": "d526db75-80c7-40b6-9ad6-cc839b45ff1d",
+      "DisplayName": "ElogioSwitch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

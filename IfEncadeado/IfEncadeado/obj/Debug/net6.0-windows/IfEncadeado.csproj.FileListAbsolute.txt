@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\bin\Debug\net6.0-windows\IfEncadeado.exe
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\bin\Debug\net6.0-windows\IfEncadeado.deps.json
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\bin\Debug\net6.0-windows\IfEncadeado.runtimeconfig.json
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\bin\Debug\net6.0-windows\IfEncadeado.dll
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\bin\Debug\net6.0-windows\ref\IfEncadeado.dll
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\bin\Debug\net6.0-windows\IfEncadeado.pdb
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.Form1.resources
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.csproj.GenerateResource.cache
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.AssemblyInfo.cs
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.dll
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\ref\IfEncadeado.dll
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.pdb
+C:\AvanadeDezembro\IfEncadeado\IfEncadeado\obj\Debug\net6.0-windows\IfEncadeado.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\bin\Debug\net6.0-windows\MédiaAluno.exe
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\bin\Debug\net6.0-windows\MédiaAluno.deps.json
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\bin\Debug\net6.0-windows\MédiaAluno.runtimeconfig.json
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\bin\Debug\net6.0-windows\MédiaAluno.dll
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\bin\Debug\net6.0-windows\ref\MédiaAluno.dll
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\bin\Debug\net6.0-windows\MédiaAluno.pdb
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.Form1.resources
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.csproj.GenerateResource.cache
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.AssemblyInfo.cs
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.dll
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\ref\MédiaAluno.dll
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.pdb
+C:\AvanadeDezembro\MédiaAluno\MédiaAluno\obj\Debug\net6.0-windows\MédiaAluno.genruntimeconfig.cache

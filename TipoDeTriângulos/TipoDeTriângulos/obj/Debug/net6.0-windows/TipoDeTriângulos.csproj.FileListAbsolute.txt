@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\bin\Debug\net6.0-windows\TipoDeTriângulos.exe
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\bin\Debug\net6.0-windows\TipoDeTriângulos.deps.json
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\bin\Debug\net6.0-windows\TipoDeTriângulos.runtimeconfig.json
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\bin\Debug\net6.0-windows\TipoDeTriângulos.dll
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\bin\Debug\net6.0-windows\ref\TipoDeTriângulos.dll
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\bin\Debug\net6.0-windows\TipoDeTriângulos.pdb
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.Form1.resources
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.csproj.GenerateResource.cache
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.AssemblyInfo.cs
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.dll
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\ref\TipoDeTriângulos.dll
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.pdb
+C:\AvanadeDezembro\TipoDeTriângulos\TipoDeTriângulos\obj\Debug\net6.0-windows\TipoDeTriângulos.genruntimeconfig.cache

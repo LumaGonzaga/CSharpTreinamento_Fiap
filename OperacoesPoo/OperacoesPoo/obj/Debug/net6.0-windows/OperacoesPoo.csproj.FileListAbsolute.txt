@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\bin\Debug\net6.0-windows\OperacoesPoo.exe
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\bin\Debug\net6.0-windows\OperacoesPoo.deps.json
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\bin\Debug\net6.0-windows\OperacoesPoo.runtimeconfig.json
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\bin\Debug\net6.0-windows\OperacoesPoo.dll
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\bin\Debug\net6.0-windows\ref\OperacoesPoo.dll
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\bin\Debug\net6.0-windows\OperacoesPoo.pdb
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.Form1.resources
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.csproj.GenerateResource.cache
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.AssemblyInfo.cs
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.dll
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\ref\OperacoesPoo.dll
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.pdb
+C:\AvanadeDezembro\OperacoesPoo\OperacoesPoo\obj\Debug\net6.0-windows\OperacoesPoo.genruntimeconfig.cache

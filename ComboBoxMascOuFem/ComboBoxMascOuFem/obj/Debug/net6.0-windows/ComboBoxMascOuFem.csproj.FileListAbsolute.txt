@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\bin\Debug\net6.0-windows\ComboBoxMascOuFem.exe
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\bin\Debug\net6.0-windows\ComboBoxMascOuFem.deps.json
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\bin\Debug\net6.0-windows\ComboBoxMascOuFem.runtimeconfig.json
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\bin\Debug\net6.0-windows\ComboBoxMascOuFem.dll
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\bin\Debug\net6.0-windows\ref\ComboBoxMascOuFem.dll
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\bin\Debug\net6.0-windows\ComboBoxMascOuFem.pdb
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.Form1.resources
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.AssemblyInfo.cs
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.dll
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ref\ComboBoxMascOuFem.dll
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.pdb
+C:\AvanadeDezembro\ComboBoxMascOuFem\ComboBoxMascOuFem\obj\Debug\net6.0-windows\ComboBoxMascOuFem.genruntimeconfig.cache

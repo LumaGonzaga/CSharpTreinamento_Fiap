@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.exe
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.deps.json
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.runtimeconfig.json
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.dll
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\ref\VariaveisNumericas.dll
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.pdb
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.Form1.resources
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.csproj.GenerateResource.cache
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.AssemblyInfo.cs
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.dll
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\ref\VariaveisNumericas.dll
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.pdb
+C:\AvanadeDezembro\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.genruntimeconfig.cache

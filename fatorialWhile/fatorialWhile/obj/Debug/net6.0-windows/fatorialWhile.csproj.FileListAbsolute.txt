@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\net6.0-windows\fatorialWhile.exe
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\net6.0-windows\fatorialWhile.deps.json
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\net6.0-windows\fatorialWhile.runtimeconfig.json
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\net6.0-windows\fatorialWhile.dll
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\net6.0-windows\ref\fatorialWhile.dll
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\net6.0-windows\fatorialWhile.pdb
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.Form1.resources
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.csproj.GenerateResource.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.AssemblyInfo.cs
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.dll
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\ref\fatorialWhile.dll
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.pdb
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\net6.0-windows\fatorialWhile.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.Form1.resources
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.csproj.GenerateResource.cache
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.AssemblyInfo.cs
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\bin\Debug\net6.0-windows\VerificarAdm.exe
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\bin\Debug\net6.0-windows\VerificarAdm.deps.json
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\bin\Debug\net6.0-windows\VerificarAdm.runtimeconfig.json
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\bin\Debug\net6.0-windows\VerificarAdm.dll
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\bin\Debug\net6.0-windows\ref\VerificarAdm.dll
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\bin\Debug\net6.0-windows\VerificarAdm.pdb
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.dll
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\ref\VerificarAdm.dll
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.pdb
+C:\AvanadeDezembro\VerificarAdm\VerificarAdm\obj\Debug\net6.0-windows\VerificarAdm.genruntimeconfig.cache

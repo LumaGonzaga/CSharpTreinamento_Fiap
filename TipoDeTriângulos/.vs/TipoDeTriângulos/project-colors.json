@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7a286b5-2a06-411d-b689-cb25008e8307": {
+      "ProjectGuid": "f7a286b5-2a06-411d-b689-cb25008e8307",
+      "DisplayName": "TipoDeTriângulos",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

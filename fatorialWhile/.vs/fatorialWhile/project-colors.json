@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a86d5e30-a3ba-4860-8e37-500e2e76ca50": {
+      "ProjectGuid": "a86d5e30-a3ba-4860-8e37-500e2e76ca50",
+      "DisplayName": "fatorialWhile",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

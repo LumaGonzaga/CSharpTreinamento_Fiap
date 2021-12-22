@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\bin\Debug\net6.0-windows\RadioButtonMascOuFem.exe
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\bin\Debug\net6.0-windows\RadioButtonMascOuFem.deps.json
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\bin\Debug\net6.0-windows\RadioButtonMascOuFem.runtimeconfig.json
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\bin\Debug\net6.0-windows\RadioButtonMascOuFem.dll
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\bin\Debug\net6.0-windows\ref\RadioButtonMascOuFem.dll
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\bin\Debug\net6.0-windows\RadioButtonMascOuFem.pdb
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.Form1.resources
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.csproj.GenerateResource.cache
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.AssemblyInfo.cs
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.dll
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\ref\RadioButtonMascOuFem.dll
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.pdb
+C:\AvanadeDezembro\RadioButtonMascOuFem\RadioButtonMascOuFem\obj\Debug\net6.0-windows\RadioButtonMascOuFem.genruntimeconfig.cache

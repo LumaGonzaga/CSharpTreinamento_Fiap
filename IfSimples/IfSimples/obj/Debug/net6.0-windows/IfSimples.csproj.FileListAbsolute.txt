@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.exe
+C:\AvanadeDezembro\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.deps.json
+C:\AvanadeDezembro\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.runtimeconfig.json
+C:\AvanadeDezembro\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.dll
+C:\AvanadeDezembro\IfSimples\IfSimples\bin\Debug\net6.0-windows\ref\IfSimples.dll
+C:\AvanadeDezembro\IfSimples\IfSimples\bin\Debug\net6.0-windows\IfSimples.pdb
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.Form1.resources
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.csproj.GenerateResource.cache
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.AssemblyInfo.cs
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.dll
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\ref\IfSimples.dll
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.pdb
+C:\AvanadeDezembro\IfSimples\IfSimples\obj\Debug\net6.0-windows\IfSimples.genruntimeconfig.cache

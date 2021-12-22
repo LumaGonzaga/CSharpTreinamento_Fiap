@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\bin\Debug\net6.0-windows\QuilômetrosPorLitro.exe
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\bin\Debug\net6.0-windows\QuilômetrosPorLitro.deps.json
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\bin\Debug\net6.0-windows\QuilômetrosPorLitro.runtimeconfig.json
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\bin\Debug\net6.0-windows\QuilômetrosPorLitro.dll
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\bin\Debug\net6.0-windows\ref\QuilômetrosPorLitro.dll
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\bin\Debug\net6.0-windows\QuilômetrosPorLitro.pdb
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.Form1.resources
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.csproj.GenerateResource.cache
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.AssemblyInfo.cs
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.dll
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\ref\QuilômetrosPorLitro.dll
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.pdb
+C:\AvanadeDezembro\QuilômetrosPorLitro\QuilômetrosPorLitro\obj\Debug\net6.0-windows\QuilômetrosPorLitro.genruntimeconfig.cache

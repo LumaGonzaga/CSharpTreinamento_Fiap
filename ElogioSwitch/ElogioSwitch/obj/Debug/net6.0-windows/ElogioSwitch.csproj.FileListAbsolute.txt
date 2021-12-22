@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\bin\Debug\net6.0-windows\ElogioSwitch.exe
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\bin\Debug\net6.0-windows\ElogioSwitch.deps.json
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\bin\Debug\net6.0-windows\ElogioSwitch.runtimeconfig.json
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\bin\Debug\net6.0-windows\ElogioSwitch.dll
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\bin\Debug\net6.0-windows\ref\ElogioSwitch.dll
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\bin\Debug\net6.0-windows\ElogioSwitch.pdb
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.Form1.resources
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.AssemblyInfo.cs
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.dll
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ref\ElogioSwitch.dll
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.pdb
+C:\AvanadeDezembro\ElogioSwitch\ElogioSwitch\obj\Debug\net6.0-windows\ElogioSwitch.genruntimeconfig.cache

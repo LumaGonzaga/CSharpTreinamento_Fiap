@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\bin\Debug\net6.0-windows\ParesDoWhile.exe
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\bin\Debug\net6.0-windows\ParesDoWhile.deps.json
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\bin\Debug\net6.0-windows\ParesDoWhile.runtimeconfig.json
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\bin\Debug\net6.0-windows\ParesDoWhile.dll
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\bin\Debug\net6.0-windows\ref\ParesDoWhile.dll
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\bin\Debug\net6.0-windows\ParesDoWhile.pdb
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.Form1.resources
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.AssemblyInfo.cs
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.dll
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ref\ParesDoWhile.dll
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.pdb
+C:\AvanadeDezembro\ParesDoWhile\ParesDoWhile\obj\Debug\net6.0-windows\ParesDoWhile.genruntimeconfig.cache
